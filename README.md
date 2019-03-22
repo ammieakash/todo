@@ -1,2 +1,2 @@
 # todo
-<h1>Adding day to day task by user</h1>
+<h2>Adding day to day task by user</h2>
